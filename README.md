@@ -2,7 +2,6 @@
 ---
 
 # ✅ **2️⃣ README for To-Do List App**
-Copy this into **TODO-List-App/README.md**
 
 ```markdown
 # To-Do List App
@@ -32,3 +31,4 @@ python to-do_list.py
 ID   Status        Description
 1    Not completed  Clean room
 2    Completed      Study Python
+
